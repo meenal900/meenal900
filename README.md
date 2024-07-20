@@ -1,4 +1,4 @@
-![Header](./https://github.com/meenal900/meenal900/blob/main/github-header-image.png)
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Meenal Saini</h1>
 <h3 align="center">Data Scientist from India</h3>
 

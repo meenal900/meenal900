@@ -45,7 +45,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meenal900&" alt="meenal900" /></p>
 
-<img src="https://raw.githubusercontent.com/meenal900/meenal900/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/meenal900/meenal900/snake.svg" alt="Snake animation" />
 
 ###
 

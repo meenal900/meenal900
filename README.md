@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Meenal Saini</h1>
 <h3 align="center">Data Scientist from India</h3>
+<img align="right" alt="coding" width="400" src="https://media1.tenor.com/images/4577853f98ae7f2320f091dc999c30ac/tenor.gif?itemid=9670622">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meenal900&label=Profile%20views&color=0e75b6&style=flat" alt="meenal900" /> </p>
 

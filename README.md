@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meenal Saini</h1>
 <h3 align="center">Data Scientist from India</h3>
-<img align="center" alt="coding" width="400" src="https://media1.tenor.com/images/4577853f98ae7f2320f091dc999c30ac/tenor.gif?itemid=9670622">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meenal900&label=Profile%20views&color=0e75b6&style=flat" alt="meenal900" /> </p>
 
@@ -23,6 +22,8 @@
 - 📫 How to reach me **meenalsaini078@gmail.com**
 
 - ⚡ Fun fact **Did you know? When I'm not buried in data, I'm a fan of DIY projects and crafting. Turning raw materials into something beautiful isn't all that different from what I do with data!**
+
+<img align="center" alt="coding" width="400" src="https://media1.tenor.com/images/4577853f98ae7f2320f091dc999c30ac/tenor.gif?itemid=9670622">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
